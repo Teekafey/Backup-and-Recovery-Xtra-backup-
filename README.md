@@ -20,4 +20,4 @@ In this project we will be working with percona xtraBackup; popular third-party 
 /var/backups/mysql
 ```
 
-#### Full Documentation
+#### [Full Documentation](https://github.com/Teekafey/Backup-and-Recovery-Xtra-backup-/blob/main/Backup%20%26%20Restore.md)
